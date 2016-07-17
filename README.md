@@ -18,7 +18,7 @@ GSpecialTransformMirrorYR270
 GSpecialTransformRotate90
 GSpecialTransformRotate270
 GSpecialTransformMirrorYR90
-GSpecialTransformIdentity
+GSpecialTransformIdentity [does nothing; included for completeness.]
 GSpecialTransformMirrorX
 GSpecialTransformMirrorY
 GSpecialTransformRotate180
